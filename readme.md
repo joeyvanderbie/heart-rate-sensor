@@ -1,6 +1,7 @@
-Title:  Easy dirty Arduino - Processing heart rate sensor
-Author: Joey van der Bie
-Date:   September 16, 2014 
+Title:  Easy dirty Arduino - Processing heart rate sensor<br />
+Author: Joey van der Bie<br />
+        Danica Mast
+Date:   September 16, 2014 <br />
 
 # Easy dirty Arduino - Processing heart rate sensor
 The goal of this project is to have an easy to use and create heart rate sensor.
