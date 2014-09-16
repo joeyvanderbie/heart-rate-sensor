@@ -13,8 +13,8 @@ Sorry for al the dirty code, pictures, ect, it was a quick project which had to 
 1. Buy the needed hardware: computer, Arduino, infrared sensor(TCRT1000), resistors(10kOhm, 150Ohm), wires, ect
 2. Install Arduino and Processing software
 3. Create the hardware setup according to schematic and hardware picture (note the arduino is missing on the picture)
-![image of schematic](https://github.com/joeyvanderbie/heart-rate-sensor/schematic.jpg "Schematic")
-![image of hardware](https://github.com/joeyvanderbie/heart-rate-sensor/prototype.jpg "Prototype")
+![image of schematic](https://raw.githubusercontent.com/joeyvanderbie/heart-rate-sensor/master/Schematic.jpg "Schematic")
+![image of hardware](https://raw.githubusercontent.com/joeyvanderbie/heart-rate-sensor/master/Prototype.jpg "Prototype")
 4. connect the sensor to the Arduino, the Arduino to the computer
 5. Upload the Arduino code as found in this repository
 6. Start the processing patch and pray that everything works!
