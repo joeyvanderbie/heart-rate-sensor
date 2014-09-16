@@ -1,6 +1,6 @@
 Title:  Easy dirty Arduino - Processing heart rate sensor<br />
 Author: Joey van der Bie<br />
-        Danica Mast
+        Danica Mast<br />
 Date:   September 16, 2014 <br />
 
 # Easy dirty Arduino - Processing heart rate sensor
